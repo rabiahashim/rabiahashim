@@ -2,7 +2,7 @@
 - ✨ I have worked on Financial Analysis for 3 reputeable firms including 3 statement Financial Model
 - 👀 I’m interested in Automation of Manual Practices followed by Financial Institutions.
 - 🌱 I’m currently working as a Application Consultant in Techlogix 
-- 💞️ I’m looking to collaborate on Data Engineering Projects.
+- 💞️ I’m looking to collaborate on Data Engineering and Data Science Projects.
  
 <!---
 rabiahashim/rabiahashim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
